@@ -4,7 +4,10 @@ Go to 'Tools' and 'Options'.
 
 Go to the 'Font and Colors' settings.
 
-Font: JetBrains Mono
+### Font
+
+JetBrains Mono
+Size: 10
 
 ### Plain Text, Custom:
 
