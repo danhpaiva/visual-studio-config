@@ -4,12 +4,18 @@ Go to 'Tools' and 'Options'.
 
 Go to the 'Font and Colors' settings.
 
+Apply customizations:
+
 ### Font
 
-JetBrains Mono
+Font: JetBrains Mono<br>
 Size: 10
 
-### Plain Text, Custom:
+### Example RGB
+
+rgb(231, 222, 121)
+
+### Plain Text
 
 Item ForeGroung
 
@@ -21,6 +27,30 @@ Item BackGround
 
 ~~~
 25,22,34
+~~~
+
+### Comment
+
+Item ForeGroung
+
+~~~
+86, 166, 74
+~~~
+
+### Numbers
+
+Item ForeGroung
+
+~~~
+rgb(103, 228, 128)
+~~~
+
+### User Members - Methods
+
+Item ForeGroung
+
+~~~
+231, 222, 121
 ~~~
 
 ### String
