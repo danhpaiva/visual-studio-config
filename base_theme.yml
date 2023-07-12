@@ -1,0 +1,12 @@
+base:
+  - &BG "#191622"
+  - &FG "#E1E1E6"
+  - &SELECTION "#41414D"
+  - &COMMENT "#5A4B81"
+  - &CYAN "#8be9fd"
+  - &GREEN "#67e480"
+  - &ORANGE "#E89E64"
+  - &PINK "#FF79C6"
+  - &PURPLE "#988bc7"
+  - &RED "#ff5555"
+  - &YELLOW "#e7de79"
