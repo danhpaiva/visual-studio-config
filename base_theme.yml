@@ -2,7 +2,7 @@ base:
   - &BG "#191622"
   - &FG "#E1E1E6"
   - &SELECTION "#41414D"
-  - &COMMENT "#5A4B81"
+  - &COMMENT "#6272a4"
   - &CYAN "#8be9fd"
   - &GREEN "#67e480"
   - &ORANGE "#E89E64"

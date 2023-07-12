@@ -34,7 +34,7 @@ Item BackGround
 Item ForeGroung
 
 ~~~
-86, 166, 74
+rgb(98, 114, 164)
 ~~~
 
 ### Numbers
@@ -59,4 +59,10 @@ Item ForeGroung
 
 ~~~
 232,158,100
+~~~
+
+### Types
+
+~~~
+rgb(78, 201, 176)
 ~~~
